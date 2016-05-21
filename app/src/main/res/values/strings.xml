@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">ActivityResult</string>
+    <string name="state_selection">Select a state</string>
+    <string name="action_settings">Configurations</string>
+    <string name="selection_activity_title">Select</string>
+
+    <string-array name="brazilian_states">
+        <item>Alagoas</item>
+        <item>Bahia</item>
+        <item>Ceara</item>
+        <item>Maranhao</item>
+        <item>Paraiba</item>
+        <item>Pernambuco</item>
+        <item>Piaui</item>
+        <item>Sergipe</item>
+        <item>Rio Grande do Norte</item>
+    </string-array>
+</resources>
